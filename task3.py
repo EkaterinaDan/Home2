@@ -1,3 +1,5 @@
+""" Дан массив размера N. После каждого отрицательного элемента массива вставьте элемент с нулевым значением.
+
 def transform(list_numbers):
     result = []
     for element in list_numbers:
